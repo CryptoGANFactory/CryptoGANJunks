@@ -5,9 +5,9 @@ Welcome Crypto- and NFT-community,
   
 CryptoGANFactory will soon drop it's first NFT collection called CryptoGANJunks! In case you wonder what the hell GAN means, it stands for generative adversarial network. You still don't know what the hack we are talking about? Ok, let me explain. Generative adversarial networks enable us to generate new 'realistic' data, based on training with existing data. For example, if we train a network to understand what a Pokemon is, using a big set of existing Pokemon, it might be able to invent new Pokemon. Our CryptoGANJunks are created by using this type of neural network trained on CryptoPunks.  
   
-But why are your NFTs called 'Junks'? That's a good question! Take a look at our title pic! You can see a bunch of colorful pixel art portraits of CryptoPunk inspired faces. These colorful portraits look so crazy, they could easily be made by a drug addicted AI on an LSD trip.  
+But why are your NFTs called 'Junks'? That's a good question! Take a look at our title pic! You can see a bunch of colorful pixel art portraits of CryptoPunk inspired faces. These colorful portraits look so crazy, they could easily be made by a drug addicted AI on an LSD trip. Basically, a junkie AI.   
   
-We hope you can now understand why our NFT portraits are called CryptoGANJunks. Our beautiful GTX1660TI created 10k individual Junks on different stages of network training. Using networks on different training stages gives reason for some of the images being more blurry/colorful and others being super sharp and realistic.  
+We hope you can now understand why our NFT portraits are called CryptoGANJunks. Our beautiful GTX1660TI created 10k individual Junks on different stages of network training. Using networks on different training stages gives reason for some of the images being more crazy/colorful and others being more 'realistic'.    
 Nevertheless, we really enjoy the variaty of our Junks and love everyone of them. Every Junk comes with a number and individual name. We would be very happy if you share our love and adopt one or the other Junk on our OpenSea account:  
   
 https://opensea.io/CryptoGANFactory  
@@ -21,5 +21,9 @@ Instagram: https://www.instagram.com/cryptoganfactory/
 If you love the idea, feel free to donate so we can purchase an RTX3090 and create some new Junks:
 
 ETH: 0xdc03ffA7486eB9486ad3270e267A19aDbb1Dec32
+
+Big Love,
+
+S&J
 
  
