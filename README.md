@@ -8,12 +8,12 @@ CryptoGANFactory will soon drop it's first NFT collection called CryptoGANJunks!
 But why are your NFTs called 'Junks'? That's a good question! Take a look at our title pic! You can see a bunch of colorful pixel art portraits of CryptoPunk inspired faces. These colorful portraits look so crazy, they could easily be made by a drug addicted AI on an LSD trip.  
   
 We hope you can now understand why our NFT portraits are called CryptoGANJunks. Our beautiful GTX1660TI created 10k individual Junks on different stages of network training. Using networks on different training stages gives reason for some of the images being more blurry/colorful and others being super sharp and realistic.  
-Nevertheless, we really enjoy the variaty of our Junks and love everyone of them. We would be super happy if you share our love and adopt one or the other Junk on our OpenSea account:  
+Nevertheless, we really enjoy the variaty of our Junks and love everyone of them. Every Junk comes with a number and individual name. We would be very happy if you share our love and adopt one or the other Junk on our OpenSea account:  
 https://opensea.io/CryptoGANFactory  
   
 Ones we realease the full collection, more information will be added to this GITHub page. For every Junk a SHA256 key will be posted here. This will enable you to make sure you purchased an original CryptoGANJunk!  
 
-In the meantime, feel free to check out our social media channels:  
+In the meantime, feel free to check out our social media channels, where we will be posting background stories for some of our Junks:  
 
 Instagram: https://www.instagram.com/cryptoganfactory/
 
