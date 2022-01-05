@@ -1,5 +1,6 @@
 # CryptoGANJunks
-![Title](https://user-images.githubusercontent.com/97019499/148154172-4b6c4f05-bf91-4959-8993-eae61d69b678.png)  
+![Title](https://user-images.githubusercontent.com/97019499/148263641-2557271c-fcfe-4980-8e6f-e9e682f3ce55.png)
+
   
 Welcome Crypto- and NFT-community,
   
@@ -25,5 +26,6 @@ ETH: 0xdc03ffA7486eB9486ad3270e267A19aDbb1Dec32
 Big Love,
 
 S&J
+CryptoGANFactory
 
  
