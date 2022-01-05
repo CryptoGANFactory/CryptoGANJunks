@@ -18,7 +18,7 @@ In the meantime, feel free to check out our social media channels, where we will
 
 Instagram: https://www.instagram.com/cryptoganfactory/
 
-If you love the idea, feel free to donate so we can purchase a RTX3090 and create some new Junks:
+If you love the idea, feel free to donate so we can purchase an RTX3090 and create some new Junks:
 
 ETH: 0xdc03ffA7486eB9486ad3270e267A19aDbb1Dec32
 
