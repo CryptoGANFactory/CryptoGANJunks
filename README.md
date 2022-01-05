@@ -12,7 +12,7 @@ Nevertheless, we really enjoy the variaty of our Junks and love everyone of them
   
 https://opensea.io/CryptoGANFactory  
   
-Ones we realease the full collection, more information will be added to this GITHub page. For every Junk a SHA256 key will be posted here. This will enable you to make sure you purchased an original CryptoGANJunk!  
+Ones we realease the full collection, more information will be added to this GITHub page. For every Junk a SHA256 key will be posted here. This will enable you to make sure you purchased an original CryptoGANJunk! Original Junks will only be offered by our OpenSea account.
 
 In the meantime, feel free to check out our social media channels, where we will be posting background stories for some of our Junks:  
 
