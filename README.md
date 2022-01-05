@@ -9,6 +9,7 @@ But why are your NFTs called 'Junks'? That's a good question! Take a look at our
   
 We hope you can now understand why our NFT portraits are called CryptoGANJunks. Our beautiful GTX1660TI created 10k individual Junks on different stages of network training. Using networks on different training stages gives reason for some of the images being more blurry/colorful and others being super sharp and realistic.  
 Nevertheless, we really enjoy the variaty of our Junks and love everyone of them. Every Junk comes with a number and individual name. We would be very happy if you share our love and adopt one or the other Junk on our OpenSea account:  
+  
 https://opensea.io/CryptoGANFactory  
   
 Ones we realease the full collection, more information will be added to this GITHub page. For every Junk a SHA256 key will be posted here. This will enable you to make sure you purchased an original CryptoGANJunk!  
