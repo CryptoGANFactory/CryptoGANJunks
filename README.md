@@ -17,5 +17,8 @@ In the meantime, feel free to check out our social media channels:
 
 Instagram: https://www.instagram.com/cryptoganfactory/
 
+If you love or idea, feel free to donate:
+
+ETH: 0xdc03ffA7486eB9486ad3270e267A19aDbb1Dec32
 
  
