@@ -17,9 +17,9 @@ Ones we realease the full collection, more information will be added to this GIT
 
 In the meantime, feel free to check out our social media channels, where we will be posting background stories for some of our Junks:  
 
-Instagram: https://www.instagram.com/cryptoganfactory/
-Twitter:https://twitter.com/CryptoGFactory
-Discord: https://discord.gg/bNJ6VXBdv6
+Instagram: https://www.instagram.com/cryptoganfactory/  
+Twitter:https://twitter.com/CryptoGFactory  
+Discord: https://discord.gg/bNJ6VXBdv6  
 
 If you love the idea, feel free to donate so we can purchase an RTX3090 and create some new Junks:
 
